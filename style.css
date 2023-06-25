@@ -240,7 +240,7 @@ footer{
     }
     .hero_content{
         gap: 10px;
-        padding: 10px;
+        padding: 30px 20px;
     }
     .hero_content h1{
         font-size:32px;
